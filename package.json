@@ -1,0 +1,23 @@
+{
+  "name": "primer-proyecto",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hola": "echo 'hola a todos'",
+    "test": "echo 'Aqui van los test'",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "practica",
+    "kodemia"
+  ],
+  "author": "@erik593",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs-parser": "^21.0.0"
+  }
+}
