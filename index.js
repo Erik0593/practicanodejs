@@ -29,3 +29,12 @@ if(exists){
 }else{
     console.log(`Yo ni te topo`.red)
 }
+
+/*
+un script que reciba mi nombre como parametro y que nos salude con colores de arcoiris
+node saludo.js --nombre=erik
+-Debe ser un nuevo proyecto de node
+-Al termina, compartir el repositorio de Github
+-- No Este versionada la carpeta node_modules
+---Que corra el proyecto
+*/
